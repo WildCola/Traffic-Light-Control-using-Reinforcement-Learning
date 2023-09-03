@@ -10,5 +10,5 @@ This repository contains three reinforcement learning agents made for traffic fl
 - if you want to plot your results you can add custom_graph.py to your utils folder
 
 ## Additional requirements:
-SUMO: https://eclipse.dev/sumo/
-SUMO-RL: https://github.com/LucasAlegre/sumo-rl/tree/88ede9bafe06333b9837dc9eb996befd4f482085
+- SUMO: https://eclipse.dev/sumo/
+- SUMO-RL: https://github.com/LucasAlegre/sumo-rl/tree/88ede9bafe06333b9837dc9eb996befd4f482085
